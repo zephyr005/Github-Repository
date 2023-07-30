@@ -1,7 +1,7 @@
 GitHub-Repository
-Created a Github repository. Using APIs
+Created a GitHub repository. Using APIs
 
-https://zephyr005.github.io/GitHub-Repository/
+https://zephyr005.github.io/Github-Repository/
 ![Alt text](<Screenshot 2023-07-30 102435.png>)
 GitHubRepo1 UI of the GitHub repo **
 
